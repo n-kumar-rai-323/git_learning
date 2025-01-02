@@ -6,3 +6,5 @@ function say_name() {
 function sayHello() {
   console.log("git dif");
 }
+
+console.log("git stage");
